@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "OrderService": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7203",
+      "launchBrowser": false
+    }
+  }
+}
